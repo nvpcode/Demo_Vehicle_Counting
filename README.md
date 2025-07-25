@@ -2,6 +2,9 @@
 
 This project utilizes YOLO and OpenCV to count vehicles passing through a defined region in a video.
 
+## Demo
+▶️ [Watch the demo video](https://drive.google.com/file/d/10K-bp2b0EhRPzDt3pTa-mulIBUbeuKhY/view?usp=drive_link)
+
 ## Requirements
 
 - OpenCV (`cv2`)
